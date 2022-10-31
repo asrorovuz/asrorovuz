@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hi 👋, I'm - Sardor Asrorov</h1>
 
-<!--
-**asrorovuz/asrorovuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3>I am a future programmer from Uzbekistan.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **JavaScript, React**
+
+- 📫 How to reach me **asrorovs167@gmail.com**
+
+- ⚡ Fun fact **I like play footboll and watch** 
+
+<p>&nbsp;<img alighn="center" src="https://github-readme-stats.vercel.app/api?username=asrorov22&show_icons=true&theme=highcontrast&title_color=f7f7f7&text_color=fdfcfc&locale=en" alt="asrorov22" />
+</p>
+<p>&nbsp;
+<img alighn="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asrorov22&theme=highcontrast" alt="asrorov22" /></p>
