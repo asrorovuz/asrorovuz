@@ -9,6 +9,6 @@
 
 - ⚡ Fun fact **I like play footboll and watch** 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asrorovuz&show_icons=true&locale=en" alt="asrorovuz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asrorovuz&show_icons=true&theme=dark&title_color=750000&text_color=750000&locale=en" alt="asrorovuz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asrorovuz&" alt="asrorovuz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asrorovuz&theme=dark" alt="asrorovuz" /></p>
