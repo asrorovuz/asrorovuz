@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 📫 How to reach me **asrorovs167@gmail.com**
+- 📫 How to reach me **asrorovsardor07@gmail.com**
 
 - ⚡ Fun fact **I like play footboll and watch** 
 
