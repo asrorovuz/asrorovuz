@@ -9,6 +9,5 @@
 
 - ⚡ Fun fact **I like play footboll and watch** 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asrorovuz&show_icons=true&theme=tokyonight&title_color=f07400&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="asrorovuz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asrorovuz&theme=dark" alt="asrorovuz" /></p>
