@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **asrorovsardor07@gmail.com**
 
-- ⚡ Fun fact **I like play footboll and watch** 
+- ⚡ Fun fact **I like watch and play footboll** 
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asrorovuz&theme=dark" alt="asrorovuz" /></p>
