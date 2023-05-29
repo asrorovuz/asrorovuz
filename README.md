@@ -3,7 +3,7 @@
 
 <h3>I am a future programmer from Uzbekistan.</h3>
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **TypeScript, NodeJS**
 
 - 📫 How to reach me **asrorovsardor07@gmail.com**
 
