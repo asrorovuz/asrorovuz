@@ -143,19 +143,7 @@ Travel information platform with multilingual support and country exploration fe
 
 <p align="center">
 <img
-src="https://github-readme-stats.vercel.app/api?username=asrorovuz&show_icons=true&theme=github_dark&hide_border=true"
-/>
-</p>
-
-<p align="center">
-<img
 src="https://github-readme-streak-stats.herokuapp.com/?user=asrorovuz&theme=github-dark-blue&hide_border=true"
-/>
-</p>
-
-<p align="center">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrorovuz&layout=compact&theme=github_dark&hide_border=true"
 />
 </p>
 
