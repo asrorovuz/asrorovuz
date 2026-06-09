@@ -1,22 +1,31 @@
 <h1 align="center">Sardor Asrorov</h1>
 
 <h3 align="center">
-Frontend Engineer | React & TypeScript Specialist
+Frontend Engineer | React • TypeScript • Next.js
 </h3>
 
 <p align="center">
-Building scalable web applications, modern user interfaces, and enterprise solutions.
+Building scalable web applications, business platforms, POS systems, and modern user experiences.
+</p>
+
+<p align="center">
+<a href="mailto:asrorovsardor07@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sardor-asrorov-16a471273">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Frontend Engineer with hands-on experience in developing modern web applications, POS systems, CRM platforms, dashboards, and business automation solutions.
+Frontend Engineer with experience in developing modern web applications, POS systems, CRM platforms, dashboards, and business automation solutions.
 
 I specialize in building scalable, maintainable, and high-performance applications using React, TypeScript, and modern frontend architectures.
 
-My experience includes developing complex business systems, integrating REST APIs, implementing role-based access control, creating reusable component libraries, and mentoring aspiring frontend developers.
+My experience includes developing complex business systems, integrating REST APIs, implementing role-based access control, building reusable component libraries, optimizing application performance, and mentoring aspiring frontend developers.
 
 ---
 
@@ -41,38 +50,53 @@ My experience includes developing complex business systems, integrating REST API
 
 ### Frontend Mentor
 
-- Mentored junior developers
+- Mentored junior frontend developers
 - Conducted practical coding sessions
-- Guided students through real-world project development
-- Reviewed code and frontend architecture decisions
+- Assisted students in building real-world projects
+- Reviewed code quality and architecture decisions
 
 ---
 
-## 🛠 Core Technologies
+## 🛠 Tech Stack
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite" />
+</p>
 
 ### State Management
 
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux)
+<p>
+<img src="https://skillicons.dev/icons?i=redux" />
+</p>
 
-### UI Development
+- Redux Toolkit
+- Zustand
 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign)
+### UI & Styling
 
-### Tools & Workflow
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind,sass,figma" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+- Ant Design
+- Responsive Design
+- Mobile First Development
+
+### API & Data Handling
+
+- REST API
+- Axios
+- React Query / TanStack Query
+- React Hook Form
+- TanStack Table
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
 ---
 
@@ -81,49 +105,81 @@ My experience includes developing complex business systems, integrating REST API
 - Frontend Architecture
 - React Ecosystem
 - TypeScript Development
-- State Management
-- API Integration
+- State Management (Redux Toolkit & Zustand)
+- REST API Integration
 - Authentication & Authorization
-- Role-Based Access Control
-- Data Visualization
-- Dashboard Development
-- POS Systems
-- CRM Platforms
+- Role-Based Access Control (RBAC)
+- POS Systems Development
+- CRM Systems Development
+- Dashboard & Analytics Platforms
+- Internationalization (i18n)
+- Reusable Component Design
 - Performance Optimization
-- Responsive UI Development
+- Responsive & Mobile-First Development
+
+---
+
+## 📌 Featured Projects
+
+### POS System
+
+Enterprise-level point-of-sale platform with payment integrations, fiscalization, inventory management, reporting, and role-based access control.
+
+### CRM Platform
+
+Educational center management system with attendance tracking, scheduling, student management, and analytics.
+
+### AutoZoom Dashboard
+
+Administrative dashboard focused on monitoring, reporting, and operational management.
+
+### World Tour
+
+Travel information platform with multilingual support and country exploration features.
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asrorovuz&show_icons=true&theme=github_dark&hide_border=true" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=asrorovuz&show_icons=true&theme=github_dark&hide_border=true"
+/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asrorovuz&theme=github-dark-blue&hide_border=true" />
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=asrorovuz&theme=github-dark-blue&hide_border=true"
+/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrorovuz&layout=compact&theme=github_dark&hide_border=true" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrorovuz&layout=compact&theme=github_dark&hide_border=true"
+/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sardor-asrorov-16a471273">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+- LinkedIn: https://www.linkedin.com/in/sardor-asrorov-16a471273
+- Email: asrorovsardor07@gmail.com
 
-<a href="mailto:asrorovsardor07@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+---
+
+## 📚 Currently Exploring
+
+- Advanced Next.js Architecture
+- Frontend System Design
+- Scalable State Management Patterns
+- Performance Optimization Techniques
+- Full-Stack Development with Modern Web Technologies
 
 ---
 
 ### 💡 Philosophy
 
-> Clean code, scalable architecture, and continuous learning are the foundations of great software engineering.
+> Building software is not just writing code — it's creating solutions that are scalable, maintainable, and valuable for users.
+
+⭐ Thank you for visiting my profile.
