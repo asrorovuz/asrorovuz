@@ -21,24 +21,31 @@ Building scalable web applications, business platforms, POS systems, and modern 
 
 ## 👨‍💻 About Me
 
-Frontend Engineer with experience in developing modern web applications, POS systems, CRM platforms, dashboards, and business automation solutions.
+Frontend Engineer specializing in modern, scalable web applications — from POS and CRM systems to admin dashboards and business automation platforms.
 
-I specialize in building scalable, maintainable, and high-performance applications using React, TypeScript, and modern frontend architectures.
+I build performant, maintainable products using React, TypeScript, and modern frontend architectures, with hands-on experience integrating REST APIs, implementing role-based access control, designing reusable component libraries, and optimizing application performance.
 
-My experience includes developing complex business systems, integrating REST APIs, implementing role-based access control, building reusable component libraries, optimizing application performance, and mentoring aspiring frontend developers.
+Beyond writing code, I enjoy mentoring aspiring developers and helping teams adopt cleaner, more scalable frontend practices.
 
 ---
 
 ## 🚀 Professional Experience
 
-### Frontend Engineer
-**AOBA Art of Business Agency** | Aug 2025 – Present
+### Frontend Developer
+**Shaffof Qurilish** | Present
 
-- Developing enterprise-level POS systems
-- Building scalable frontend architectures
-- Integrating payment and fiscalization services
-- Creating reusable UI components and business modules
-- Optimizing application performance and user experience
+- Developing and maintaining frontend interfaces for the company's web platforms
+- Building responsive, user-friendly UI components
+- Collaborating across teams to deliver reliable, production-ready features
+
+### Frontend Engineer
+**AOBA Art of Business Agency** | Aug 2025
+
+- Developed enterprise-level POS systems
+- Built scalable frontend architectures
+- Integrated payment and fiscalization services
+- Created reusable UI components and business modules
+- Optimized application performance and user experience
 
 ### Frontend Developer
 **IT Time Academy**
@@ -82,7 +89,7 @@ My experience includes developing complex business systems, integrating REST API
 
 - Ant Design
 - Responsive Design
-- Mobile First Development
+- Mobile-First Development
 
 ### API & Data Handling
 
@@ -122,19 +129,15 @@ My experience includes developing complex business systems, integrating REST API
 ## 📌 Featured Projects
 
 ### POS System
-
 Enterprise-level point-of-sale platform with payment integrations, fiscalization, inventory management, reporting, and role-based access control.
 
 ### CRM Platform
-
 Educational center management system with attendance tracking, scheduling, student management, and analytics.
 
 ### AutoZoom Dashboard
-
 Administrative dashboard focused on monitoring, reporting, and operational management.
 
 ### World Tour
-
 Travel information platform with multilingual support and country exploration features.
 
 ---
