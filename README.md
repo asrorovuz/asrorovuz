@@ -146,7 +146,7 @@ Travel information platform with multilingual support and country exploration fe
 
 <p align="center">
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=asrorovuz&theme=github-dark-blue&hide_border=true"
+src="https://streak-stats.demolab.com/?user=asrorovuz&theme=github-dark-blue&hide_border=true"
 />
 </p>
 
